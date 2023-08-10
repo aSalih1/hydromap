@@ -80,7 +80,8 @@ nav:
     - Changelog: changelog.md
     - Report Issues: https://github.com/aSalih1/hydromap/issues
     - Examples:
-        - examples/introipynb
+        - examples/intro.ipynb
+        - examples/folium.ipynb
     - API Reference:
         - hydromap module: hydromap.md
         - common module: common.md
