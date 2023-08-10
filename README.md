@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/hydromap.svg)](https://anaconda.org/conda-forge/hydromap)
 
 
-**A python package for hydrological analysis interactive mapping.**
+**A Python package for hydrological analysis interactive mapping.**
 
 
 -   Free software: MIT license
