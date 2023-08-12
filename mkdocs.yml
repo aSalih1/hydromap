@@ -85,3 +85,4 @@ nav:
     - API Reference:
         - hydromap module: hydromap.md
         - common module: common.md
+        - folium module: foliumap.md
